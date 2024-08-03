@@ -1,1 +1,17 @@
-null
+{
+    "description": [
+        "TEST2",
+        "TEST",
+        "TESTP"
+    ],
+    "pricescale": [
+        10,
+        100,
+        1000000
+    ],
+    "symbol": [
+        "DATA_51F018E6_TEST2",
+        "DATA_063442DFFD9FFE8F_TEST",
+        "DATA_23F2992220FA3837_TESTP"
+    ]
+}
