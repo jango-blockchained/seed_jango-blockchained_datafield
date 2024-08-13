@@ -1,0 +1,24 @@
+{
+    "currency": "",
+    "description": [
+        "PIMMELMANN",
+        "TEST",
+        "PIMMEL",
+        "TEST3",
+        "TEST1"
+    ],
+    "pricescale": [
+        100000,
+        10,
+        10,
+        10,
+        10
+    ],
+    "symbol": [
+        "DATA_4AF9A74A_PIMMELMANN",
+        "DATA_FF4A825F_TEST",
+        "DATA_B2B5FBCC_PIMMEL",
+        "DATA_4858F87B_TEST3",
+        "DATA_0A3CA0A4_TEST1"
+    ]
+}
