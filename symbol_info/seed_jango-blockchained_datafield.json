@@ -1,20 +1,24 @@
 {
+    "currency": "",
     "description": [
-        "TEST4",
-        "TESTP",
         "TEST",
-        "TEST2"
+        "TEST1",
+        "TEST3",
+        "PIMMEL",
+        "PIMMELMANN"
     ],
     "pricescale": [
         10,
-        1000000,
-        100,
-        10
+        10,
+        10,
+        10,
+        100000
     ],
     "symbol": [
-        "DATA_D7461947_TEST4",
-        "DATA_23F2992220FA3837_TESTP",
-        "DATA_063442DFFD9FFE8F_TEST",
-        "DATA_51F018E6_TEST2"
+        "DATA_FF4A825F_TEST",
+        "DATA_0A3CA0A4_TEST1",
+        "DATA_4858F87B_TEST3",
+        "DATA_B2B5FBCC_PIMMEL",
+        "DATA_4AF9A74A_PIMMELMANN"
     ]
 }
